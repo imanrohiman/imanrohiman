@@ -52,6 +52,7 @@
 </p>
 
 ---
+![Bouncing Ball Animation](assets/bounce.gif)
 
 ### 📂 Featured Project
 
