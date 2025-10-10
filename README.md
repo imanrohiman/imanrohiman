@@ -27,7 +27,7 @@
 #### 🔧 Monitoring & Observability
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)](https://prometheus.io)
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)](https://grafana.com)
-[![Percona](https://img.shields.io/badge/Percona-DA291C?style=flat&logo=percona&logoColor=white)](https://www.percona.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org)
 
 
 #### ⚙️ Automation & CI/CD
