@@ -52,8 +52,9 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/imanrohiman/imanrohiman/main/assets/bounce.gif" alt="Bouncing Ball Animation" width="60" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxhbzFvYXhucHFtdmV1NHk5bTlpbHJoZjJvbHlqNmNwaWdoeThleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />
 </p>
+
 ---
 
 ### 📂 Featured Project
