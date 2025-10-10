@@ -51,10 +51,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanrohiman&layout=compact&theme=tokyonight&hide_border=true" height="130" />
 </p>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />
-</p>
-
 ---
 
 ### 📂 Featured Project
