@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmxhbzFvYXhucHFtdmV1NHk5bTlpbHJoZjJvbHlqNmNwaWdoeThleCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="80" />
 </p>
 
 ---
