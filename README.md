@@ -8,7 +8,7 @@
 ### 🧠 About Me
 - 🔭 Currently exploring **infrastructure automation & observability**
 - ⚙️ Interested in **CI/CD, monitoring, and cost optimization**
-- 🌐 Experienced with **Grafana, Prometheus, Percona, and Terraform**
+- 🌐 Experienced with **Grafana, Prometheus, PostgreSQL, and Terraform**
 - 💬 Ask me about **cloud operations or DevOps troubleshooting**
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/iman-rohiman-2a2a7744/)
 
