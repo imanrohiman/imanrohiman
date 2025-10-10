@@ -51,11 +51,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imanrohiman&layout=compact&theme=tokyonight&hide_border=true" height="130" />
 </p>
 
+<!-- 🟦 Animasi bola -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/imanrohiman/imanrohiman/main/assets/bounce.gif" alt="Bouncing Ball Animation" width="60" />
+</p>
 ---
-## 👋 Let's connect and build something amazing together!
-
-![Bouncing Ball Animation](https://raw.githubusercontent.com/imanrohiman/imanrohiman/main/assets/bounce.gif)
-
 
 ### 📂 Featured Project
 
