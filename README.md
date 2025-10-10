@@ -52,7 +52,10 @@
 </p>
 
 ---
-![Bouncing Ball Animation](assets/bounce.gif)
+## 👋 Let's connect and build something amazing together!
+
+![Bouncing Ball Animation](https://raw.githubusercontent.com/imanrohiman/imanrohiman/main/assets/bounce.gif)
+
 
 ### 📂 Featured Project
 
