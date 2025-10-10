@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Halo, saya Iman-Nuelah Adalah
 
-<!--
-**imanrohiman/imanrohiman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps & Cloud Operations Engineer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tools & Skills
+![DevOps](https://img.shields.io/badge/DevOps-Automation-blue?style=for-the-badge)
+![Terraform](https://img.shields.io/badge/Terraform-IaC-orange?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-Container-blue?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-lightblue?style=for-the-badge)
+
+---
+
+## 🚀 Project
+
+- [Terraform Infra Automation](https://github.com/imanrohiman/terraform-automation)
+
+---
+
+## 📈 GitHub Stats
+
+![Imanrohiman's GitHub stats](https://github-readme-stats.vercel.app/api?username=imanrohiman&show_icons=true&theme=default&count_private=true)
