@@ -1,6 +1,6 @@
 <!-- PROFIL GITHUB - Iman Rohiman 10102025 --> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=25&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=👋Hi+I'm+Iman+Rohiman!;Welcome+to+my+GitHub!;DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=25&pause=1000&color=000000&center=true&vCenter=true&width=500&lines=Hi+I'm+Iman+Rohiman!;Welcome+to+my+GitHub!;DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 
