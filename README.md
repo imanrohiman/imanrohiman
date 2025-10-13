@@ -1,6 +1,6 @@
 <!-- PROFIL GITHUB - Iman Rohiman 10102025 --> 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code:wght@700&size=25&pause=1000&color=9B30FF&center=true&vCenter=true&width=500&lines=Hi+I'm+Iman+Rohiman!;Welcome+to+my+GitHub!;DevOps+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Source+Code+Pro:wght@900&size=28&pause=1000&color=9B30FF&center=true&vCenter=true&width=600&lines=%3E_+WELCOME+TO+MY+NETWORK;Hi+I'm+Iman+Rohiman!;DevOps+Engineer" alt="Typing SVG" />
 </p>
 
 <h3 align="center">🚀 DevOps & Cloud Operations Engineer | Focused on Automation, Monitoring, and Reliability</h3>
