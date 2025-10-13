@@ -1,6 +1,7 @@
 <!-- PROFIL GITHUB - Iman Rohiman 10102025 --> 
 
 <h1 align="center">👋 Hi, I'm Iman Rohiman</h1>
+<marquee>🚀 Welcome to my Hi, I'm Iman Rohiman! 👋</marquee>
 <h3 align="center">🚀 DevOps & Cloud Operations Engineer | Focused on Automation, Monitoring, and Reliability</h3>
 
 ---
